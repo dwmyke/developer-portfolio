@@ -16,12 +16,12 @@
 
 */
 @font-face {
-	font-family: Augestina;
-	src: url('/fonts/Agustina.otf');
+	font-family: Caveat;
+	src: url('/fonts/Caveat.ttf');
 }
 
 #nav-title {
-	font-family: Augestina;
+	font-family: 'Caveat', cursive;
 	text-transform: capitalize;
 }
 
